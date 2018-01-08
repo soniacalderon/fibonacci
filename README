@@ -1,0 +1,10 @@
+Ejecución Test:
+	-Los test se ejecutan por separados.
+	
+Ejecución main:
+	- Ejecutar main e ir a ruta http://localhost:4568/Serie/n , donde n = cualquier numero mayor o igual a 0 que se desee del indice de la serie de fibonacci.
+	
+Se utilizó:
+	Junit 4.12 para las pruebas unitarias.
+	sparkjava 2.7.1 Inicia y define servicio.
+	unirest 1.4.9 Levantar servicio para la ejecución de pruebas unitarias.
