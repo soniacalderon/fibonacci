@@ -1,3 +1,5 @@
+Funcionalidad: Dado el número recibido, retorna el término n y n-1 de la sucesión de Fibonacci.
+
 Ejecución Test:
 	-Los test se ejecutan por separados.
 	
